@@ -10,6 +10,7 @@ import 'package:flutter_examples/pages/multiple_selection.dart';
 import 'package:flutter_examples/pages/tea_page.dart';
 import 'package:flutter_examples/pages/w_menu_list.dart';
 import 'package:flutter_examples/pages/w_pricing_table.dart';
+import 'package:flutter_examples/pages/w_scrollable_categories.dart';
 import 'package:flutter_examples/pages/w_transaction.dart';
 
 import 'class/NavigatorItem.dart';
@@ -27,6 +28,7 @@ List<NavigatorItem> items = [
   NavigatorItem('WTransaction', MaterialPageRoute(builder: (context) => WTransaction())),
   NavigatorItem('AI Information Screen', MaterialPageRoute(builder: (context) => AIInformationScreen())),
   NavigatorItem('Food Recipe Page', MaterialPageRoute(builder: (context) => FoodRecipePage())),
+  NavigatorItem('Scrollable Categories', MaterialPageRoute(builder: (context) => WScrollableCategories())),
 ];
 void main() => runApp(
     MaterialApp(
