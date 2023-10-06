@@ -39,6 +39,8 @@ dependencies:
   fluttericon: ^2.0.0
   font_awesome_flutter: ^10.5.0
   intl:
+  card_swiper: ^3.0.1
+  flutter_swiper_view: ^1.1.8
 
 dev_dependencies:
   flutter_test:
