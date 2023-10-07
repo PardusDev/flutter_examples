@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_examples/pages/ai_information_screen.dart';
 import 'package:flutter_examples/pages/bottom_menu.dart';
+import 'package:flutter_examples/pages/bottom_navbar.dart';
 import 'package:flutter_examples/pages/food_recipe_page.dart';
+import 'package:flutter_examples/pages/mucicy_welcome_screen.dart';
+import 'package:flutter_examples/pages/w_credit_card_dropdown.dart';
 import 'package:flutter_examples/pages/w_happiness_chart.dart';
 import 'package:flutter_examples/pages/login_page_vpn.dart';
 import 'package:flutter_examples/pages/login_page_walking_anim.dart';
@@ -29,6 +32,9 @@ List<NavigatorItem> items = [
   NavigatorItem('AI Information Screen', MaterialPageRoute(builder: (context) => AIInformationScreen())),
   NavigatorItem('Food Recipe Page', MaterialPageRoute(builder: (context) => FoodRecipePage())),
   NavigatorItem('Scrollable Categories', MaterialPageRoute(builder: (context) => WScrollableCategories())),
+  NavigatorItem('Bottom Navbar', MaterialPageRoute(builder: (context) => BottomNavbar())),
+  NavigatorItem('Mucicy Welcome Screen', MaterialPageRoute(builder: (context) => MucicyWelcomeScreen())),
+  NavigatorItem('Credit Cart Dropdown', MaterialPageRoute(builder: (context) => WCreditCardDropdown())),
 ];
 void main() => runApp(
     MaterialApp(
