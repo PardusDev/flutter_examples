@@ -1,3 +1,10 @@
+# Flutter Widget Examples
+
+This project is written in the Flutter language. It is a project where different Widgets or Screens are made on Android. On the first page (Home page), there is a ListView for navigating to the examples made. You can view all the works by clicking on the items in the ListView. Additionally, you can check the screenshots and brief descriptions of the examples made below.
+
+Some designs were made by me. Some designs were made by different designers. I have only done the coding part on Flutter. The rights do not belong to me.
+
+
 ## Screens
 
 ### Bottom Modal Menu
