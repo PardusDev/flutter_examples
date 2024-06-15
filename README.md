@@ -1,90 +1,65 @@
-
-# Flutter Widget Examples
-
-This project is written in the Flutter language. It is a project where different Widgets or Screens are made on Android. On the first page (Home page), there is a ListView for navigating to the examples made. You can view all the works by clicking on the items in the ListView. Additionally, you can check the screenshots and brief descriptions of the examples made below.
-
-Some designs were made by me. Some designs were made by different designers. I have only done the coding part on Flutter. The rights do not belong to me.
-
-
-
-
 ## Screens
-
 
 ### Bottom Modal Menu
 
-![Screenshot from App](/screenshots/bottom_modal_menu.png)
+<img src="/screenshots/bottom_modal_menu.png" alt="Screenshot from App" width="300" />
 
 ### Login Page
 
-![Screenshot from App](/screenshots/animated_login_page.png)
-
+<img src="/screenshots/animated_login_page.png" alt="Screenshot from App" width="300" />
 
 ### Login Page VPN
 
-![Screenshot from App](/screenshots/login_page_vpn.png)
-
+<img src="/screenshots/login_page_vpn.png" alt="Screenshot from App" width="300" />
 
 ### Tea Page
 
-![Screenshot from App](/screenshots/tea_page.png)
-
+<img src="/screenshots/tea_page.png" alt="Screenshot from App" width="300" />
 
 ### Multiple Selection
 
-![Screenshot from App](/screenshots/multiple_selection.png)
-
+<img src="/screenshots/multiple_selection.png" alt="Screenshot from App" width="300" />
 
 ### Meditation App Home Page
 
-![Screenshot from App](/screenshots/meditation_home.png)
-
+<img src="/screenshots/meditation_home.png" alt="Screenshot from App" width="300" />
 
 ### (Widget) Happiness Chart
 
-![Screenshot from App](/screenshots/happiness_char_widget.png)
-
+<img src="/screenshots/happiness_char_widget.png" alt="Screenshot from App" width="300" />
 
 ### (Widget) Menu List
 
-![Screenshot from App](/screenshots/menu_widget.png)
-
+<img src="/screenshots/menu_widget.png" alt="Screenshot from App" width="300" />
 
 ### (Widget) Pricing Table
 
-![Screenshot from App](/screenshots/pricing_table_widget.png)
-
+<img src="/screenshots/pricing_table_widget.png" alt="Screenshot from App" width="300" />
 
 ### (Widget) Transaction
 
-![Screenshot from App](/screenshots/transaction_widget.png)
-
+<img src="/screenshots/transaction_widget.png" alt="Screenshot from App" width="300" />
 
 ### AI Information Screens
 
-![Screenshot from App](/screenshots/ai_information_screen.png)
-
+<img src="/screenshots/ai_information_screen.png" alt="Screenshot from App" width="300" />
 
 ### Food Recipe Page
 
-![Screenshot from App](/screenshots/food_recipe.png)
-
+<img src="/screenshots/food_recipe.png" alt="Screenshot from App" width="300" />
 
 ### Scrollable Categories
 
-![Screenshot from App](/screenshots/scrollable_categories.png)
-
+<img src="/screenshots/scrollable_categories.png" alt="Screenshot from App" width="300" />
 
 ### Bottom Navbar
 
-![Screenshot from App](/screenshots/bottom_navbar.png)
-
+<img src="/screenshots/bottom_navbar.png" alt="Screenshot from App" width="300" />
 
 ### Mucicy Welcome Screen
 
-![Screenshot from App](/screenshots/mucicy_welcome_screen.png)
-
+<img src="/screenshots/mucicy_welcome_screen.png" alt="Screenshot from App" width="300" />
 
 ### Credit Cart Dropdown
 
-![Screenshot from App](/screenshots/credit_cart_dropdown.png)
+<img src="/screenshots/credit_cart_dropdown.png" alt="Screenshot from App" width="300" />
