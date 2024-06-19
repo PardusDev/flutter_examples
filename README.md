@@ -87,3 +87,10 @@ Some designs were made by me. Some designs were made by different designers. I h
 
 <img src="/screenshots/credit_cart_dropdown.png" alt="Screenshot from App" width="300" />
 <br><br>
+
+## Contact
+
+You can reach me at:
+
+- **Email:** [rustemavci@hotmail.com.tr](mailto:rustemavci@hotmail.com.tr)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rüstem-avcı)
